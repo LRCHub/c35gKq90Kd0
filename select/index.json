@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "PSIREN",
+  "base_artist": "CLAN QUEEN",
+  "createdAt": "2026-02-14T02:31:06.696887Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PSIREN",
+      "artist": "CLAN QUEEN",
+      "has_synced": false,
+      "path": "select/pl_01_PSIREN_CLAN_QUEEN.txt"
+    }
+  ]
+}
